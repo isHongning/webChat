@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-websocket" />
         <module name="WebChat" />
+        <module name="websocket-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="WebChat" target="1.5" />
+      <module name="spring-websocket" target="1.7" />
+      <module name="WebChat" target="1.7" />
+      <module name="websocket-demo" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

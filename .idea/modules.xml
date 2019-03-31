@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WebChat.iml" filepath="$PROJECT_DIR$/WebChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-websocket/spring-websocket.iml" filepath="$PROJECT_DIR$/../spring-websocket/spring-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../websocket-demo/websocket-demo.iml" filepath="$PROJECT_DIR$/../websocket-demo/websocket-demo.iml" />
     </modules>
   </component>
 </project>

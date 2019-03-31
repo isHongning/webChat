@@ -39,12 +39,16 @@
     </properties>
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../spring-websocket" />
     <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../websocket-demo" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../websocket-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-websocket/pom.xml" />
       </list>
     </option>
   </component>
